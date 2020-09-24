@@ -2,7 +2,7 @@
 
 # Curso ReactJS - HUNT WEB - Rocketseat 🚀
 
-- Aplicação com ES6+
+- Aplicação com ReactJS
 
 ## Hunt Web
 
